@@ -198,4 +198,4 @@ This repository serves as the official landing page for Nelumbra. The software i
 **Get the most recent version of Nelumbra today!**
 
 ---
-**Last updated:** 2026-11-14 15:29:02 UTC
+**Last updated:** 2026-11-14 20:19:55 UTC
